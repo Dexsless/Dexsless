@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Dexsless
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello there ヾ(•ω•`) I'm Dann ✨
 
-<!---
-Dexsless/Dexsless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Dani Firmansah**, 16 years old and I am a **Fullstacks Developer**<br>
+A graduate of a State Islamic Senior High School with a strong interest in technology, particularly **Website development**<br>
+I like making Website and learn networking
+
+[![](https://skillicons.dev/icons?i=html,css,js,php,windows,ubuntu,react,nodejs,laravel,astro,expressjs,vercel&perline=9)](https://skillicons.dev)
+
+![](https://komarev.com/ghpvc/?username=vernsg&label=Profile%20views&color=0e75b6&style=flat)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vernsg&layout=donut&theme=holi)
+
+## ✉️ Reach me
+- [yusufkartein@gmail.com](mailto:yusufkartein@gmail.com)
