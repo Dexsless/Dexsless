@@ -1,8 +1,9 @@
-# Hello there ヾ(•ω•`) I'm Dann ✨
+# Hello there 👋 I'm Dann ✨
 
 **Dani Firmansah**, 16 years old and I am a **Fullstacks Developer**<br>
-A graduate of a State Islamic Senior High School with a strong interest in technology, particularly **Website development**<br>
+I'm School in Vocational high School, particularly Website development
 I like making Website and learn networking
+
 
 [![](https://skillicons.dev/icons?i=html,css,js,php,windows,ubuntu,react,nodejs,laravel,astro,expressjs&perline=7)](https://skillicons.dev)
 
