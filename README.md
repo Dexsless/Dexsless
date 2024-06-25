@@ -4,7 +4,7 @@
 A graduate of a State Islamic Senior High School with a strong interest in technology, particularly **Website development**<br>
 I like making Website and learn networking
 
-[![](https://skillicons.dev/icons?i=html,css,js,php,windows,ubuntu,react,nodejs,laravel,astro,expressjs,vercel&perline=9)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,php,windows,ubuntu,react,nodejs,laravel,astro,expressjs&perline=7)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=vernsg&label=Profile%20views&color=0e75b6&style=flat)
 
