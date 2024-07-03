@@ -5,6 +5,13 @@ I'm School in Vocational high School, particularly Website development
 I like making Website and learn networking
 
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+
+
+
 [![](https://skillicons.dev/icons?i=html,css,js,php,py,dart,windows,react,nodejs,expressjs,astro,laravel,django,flutter,bootstrap,figma&perline=8)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=dexsless&label=Profile%20views&color=0e75b6&style=flat)
