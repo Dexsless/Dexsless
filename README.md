@@ -1,8 +1,23 @@
-# Hello there 👋 I'm Dann ✨
+<h1 align="center">Hello there 👋 I'm Dann ✨</h1>
 
-**Dani Firmansah**, 17 years old and I am a **Fullstacks Developer**<br>
-I'm School in Vocational high School, particularly Website development
-I like making Website and learn networking
+<p align="center">
+  <b>Fullstack Developer | Tech Enthusiast | Lifelong Learner</b>
+</p>
+
+---
+
+### 👨‍💻 About Me  
+Hey! I’m **Dani Firmansah**, but you can call me **Dann** — an **18-year-old Fullstack Developer** who loves turning ideas into sleek, functional, and meaningful digital experiences. 💻✨  
+<br>
+I’m currently studying **Informatics Engineering at Universitas Teknologi Bandung**, where I explore everything from web technologies to systems and networking.  
+
+I enjoy building modern websites — from crafting beautiful front-end designs to developing powerful and efficient back-end logic.  
+I’m also passionate about **networking, automation, and exploring new frameworks** that push the boundaries of what’s possible.  
+
+> “Code is my canvas — and creativity is my favorite language.” 🎨  
+
+---
+
 
 
 ## 🔗 Links
